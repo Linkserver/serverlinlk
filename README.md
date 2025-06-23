@@ -12,3 +12,15 @@
     <script src="pink heart.js"></script>
   </body>
 </html>
+html,
+body {
+  height: 100%;
+  padding: 0;
+  margin: 0;
+  background: #000;
+}
+canvas {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
